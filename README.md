@@ -65,6 +65,12 @@ Some minor projects one needs to keep eye on
 *   [Textile](https://textile.io/): API mashup to weave together Filecoin, IPFS and libp2p. Main innovation seems to be split between [hot and cold storage layers](https://docs.textile.io/powergate/storage/
 #hot-storage-layer).
 
+## Roadmap
+
+The delivables are created in two phases
+
+1. A simple upload/download demostration with smart contract based access
+2. Creating a HTML-based dAPP for one use case using storage protocol e.g. a web forum
 
 ## Implementation
 
